@@ -1,3 +1,6 @@
 [submodule "Assets/Framework Package"]
 	path = Assets/Framework Package
 	url = git@github.com:BrusleyM/Framework-package.git
+[submodule "Assets/Framework Core"]
+	path = Assets/Framework Core
+	url = git@github.com:BrusleyM/Framework-core.git
